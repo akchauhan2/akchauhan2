@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Banner](https://akchauhan2.com/banner.gif)
 
 <!--
 **akchauhan2/akchauhan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
